@@ -2,10 +2,10 @@
 
 
 ## Data Diri
-Halo, nama saya [Nama Anda]. Saya adalah seorang [status Anda, misalnya mahasiswa atau pekerja]. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang [bidang keahlian atau minat Anda].
+Halo, nama saya Goldy. Saya adalah seorang pengangguran. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang mobile app developing.
 
 **Kontak**\
-~ Email: [alamat email Anda]\
-~ LinkedIn: [nama profil LinkedIn Anda]\
-~ GitHub: [nama profil GitHub Anda]\
-~ Website: [jika ada, masukkan alamat website Anda]
+~ Email: goldypasulu19@gmail.com\
+~ LinkedIn: None\
+~ GitHub: https://github.com/goldypasulu\
+~ Website: None\
