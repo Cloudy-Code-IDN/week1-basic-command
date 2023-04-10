@@ -2,10 +2,10 @@
 
 
 ## Data Diri
-Halo, nama saya [Nama Anda]. Saya adalah seorang [status Anda, misalnya mahasiswa atau pekerja]. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang [bidang keahlian atau minat Anda].
+Halo, nama saya Refo Adhe Setiawan. Saya adalah seorang Pekerja. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang web develop.
 
 **Kontak**\
-~ Email: [alamat email Anda]\
-~ LinkedIn: [nama profil LinkedIn Anda]\
-~ GitHub: [nama profil GitHub Anda]\
-~ Website: [jika ada, masukkan alamat website Anda]
+~ Email: srefoadhe@gmail.com\
+~ LinkedIn: -
+~ GitHub: -
+~ Website: -
