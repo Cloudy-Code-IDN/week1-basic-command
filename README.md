@@ -1,4 +1,5 @@
 # week1-basic-command
+abc
 
 ## Data Diri
 Halo, nama saya Ichtiar Firmansyah Prayogo. Saya adalah seorang Pekerja Pabrik. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang IT Progammer.
