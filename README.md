@@ -6,6 +6,6 @@ Halo, nama saya Yusuf. Saya adalah seorang pekerja. Saya sangat tertarik dengan 
 
 **Kontak**\
 ~ Email: yusuf.arviansyah54@gmail.com
-~ LinkedIn: -
-~ GitHub: -
+~ LinkedIn: www.linkedin.com/in/yusuf-arviansyah-5b3532247
+~ GitHub: https://github.com/yusufarv
 ~ Website: -
