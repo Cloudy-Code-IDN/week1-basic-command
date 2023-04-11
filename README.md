@@ -2,10 +2,10 @@
 
 
 ## Data Diri
-Halo, nama saya [Nama Anda]. Saya adalah seorang [status Anda, misalnya mahasiswa atau pekerja]. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang [bidang keahlian atau minat Anda].
+Halo, nama saya Reyhan. Saya adalah seorang Pelajar. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang Full Stack Developer.
 
 **Kontak**\
-~ Email: [alamat email Anda]\
-~ LinkedIn: [nama profil LinkedIn Anda]\
-~ GitHub: [nama profil GitHub Anda]\
-~ Website: [jika ada, masukkan alamat website Anda]
+~ Email: reyhanhadist@gmail.com\
+~ LinkedIn: linkedin.com/in/reyhanhadist\
+~ GitHub: https://github.com/Reyhanhadist\
+~ Website: -
