@@ -6,6 +6,6 @@ Halo, nama saya Riski. Saya adalah seorang Pelajar. Saya sangat tertarik dengan 
 
 **Kontak**\
 ~ Email: riskirachmad199@gmail.com
-~ LinkedIn: -
-~ GitHub: -
+~ LinkedIn: https://www.linkedin.com/in/riskirachmad199/
+~ GitHub: https://github.com/riskirachmad
 ~ Website: -
