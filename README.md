@@ -2,10 +2,10 @@
 
 
 ## Data Diri
-Halo, nama saya [Nama Anda]. Saya adalah seorang [status Anda, misalnya mahasiswa atau pekerja]. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang [bidang keahlian atau minat Anda].
+Halo, nama saya Andray Saputra. Saya adalah seorang pekerja. Saya sangat tertarik dengan dunia teknologi, khususnya dalam bidang web developer.
 
 **Kontak**\
-~ Email: [alamat email Anda]\
-~ LinkedIn: [nama profil LinkedIn Anda]\
-~ GitHub: [nama profil GitHub Anda]\
-~ Website: [jika ada, masukkan alamat website Anda]
+~ Email: budytan800101@gmail.com\
+~ LinkedIn: andray saputra\
+~ GitHub: raysptr
+~ Website: -
